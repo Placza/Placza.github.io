@@ -1,0 +1,34 @@
+body {
+    text-align: justify;
+    margin-top: 16%;
+    margin-bottom: 16%;
+    margin-left: 30%;
+    margin-right: 50%;
+    background-image: url("img/paper-texture-background-w7ajzvusd3ybjqfz-801153676.jpg");
+}
+
+h3 {
+    margin-bottom: 5%;
+}
+
+p {
+    font-size: 85%;
+}
+
+footer {
+    text-align: right;
+}
+
+sub {
+    color: rgb(104, 104, 104);
+}
+
+header {
+    margin-bottom: 20%;
+    margin-right: -40%;
+    margin-left: -10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+    color: rgb(104, 104, 104);
+    text-align: left;
+}
